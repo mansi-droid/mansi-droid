@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**mansi-droid/mansi-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey, Hello, 你好 👋 
 
-Here are some ideas to get you started:
+I'm a passionate Android Developer from Germany. 
+Alongside programming, I love photography and travelling!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<br />
+<p align = "start">
+  <img src = "https://github-readme-stats.vercel.app/api?username=mansi-droid">
+</p>
+
+</details>
