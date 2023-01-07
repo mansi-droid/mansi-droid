@@ -8,7 +8,6 @@ Alongside programming, I love exercising, driving and travelling!
 - 🌐  ㅤVisit my [stackOverflow](https://stackoverflow.com/users/11893428/mansi-vaghela).
 - 🌐  ㅤVisit my [Xing](https://www.xing.com/profile/Mansi_Vaghela/web_profiles).
 - 🧍  ㅤMy life on [Instagram](https://www.instagram.com/i.m.mrp).
-- 
 - Misc on [Twitter](https://twitter.com/mansi_droid)
 
 <br />
