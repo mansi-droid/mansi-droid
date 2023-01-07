@@ -1,5 +1,5 @@
 
-## Hey, Hello, 你好 👋 
+## Hey, Hello, 👋 
 
 I'm a passionate Android Developer from Germany. 
 Alongside programming, I love exercising, driving and travelling!
