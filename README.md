@@ -12,12 +12,8 @@ Alongside programming, I love exercising, driving and travelling!
 - 🧍 My life on [Instagram](https://www.instagram.com/i.m.mrp).
 
 
-
 ### 📫 How to reach me:
 
-<a href="mansi.dev@outlook.com">
-  <img align="left" alt="Mansi Vaghela | Outlook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/826px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" />
-</a>
 <a href="https://www.linkedin.com/in/mansi-droid">
   <img align="left" alt="Mansi Vaghela's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -36,6 +32,10 @@ Alongside programming, I love exercising, driving and travelling!
 <a href="https://www.fiverr.com/mp_android?up_rollout=true">
   <img align="left" alt="Mansi Vaghela | Fiverr" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOMR4uU2hUSmO2-XXS7hRutc0QHU1CTMmiAS7LAra4e4PU0dh1aW5giE8j8Ens56idWhg&usqp=CAU" />
 </a>
+<br><br>
+
+Contact me: 
+mansi.dev@outlook.com
 
 <br><br>
 <p align = "start">
