@@ -15,9 +15,6 @@ Alongside programming, I love exercising, driving and travelling!
 
 ### 📫 How to reach me:
 
-<a href="https://github.com/mansi-droid">
-  <img align="left" alt="Mansi Vaghela | Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
-</a>
 <a href="https://twitter.com/mansi_droid">
   <img align="left" alt="Mansi Vaghela | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
