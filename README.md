@@ -4,7 +4,8 @@
 I'm a passionate Android Developer. 
 Alongside programming, I love exercising, driving and travelling!
 
-- 🔗  Visit my [website](https://mansi.dev/).<br />
+- 🔗    Visit my [website](https://mansi.dev/).
+- 🏬    Check out my apps on the [Google Play Store](https://play.google.com/store/apps/developer?id=Mansi+Vaghela).
 - 👩‍💻    Developer with more then 4 years experience
 - 🔭    I’m currently working on Android
 - 🌱    I’m currently learning Android unit testing
