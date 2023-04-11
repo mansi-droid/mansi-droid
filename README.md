@@ -4,7 +4,7 @@
 I'm a passionate Android Developer. 
 Alongside programming, I love exercising, driving and travelling!
 
-- 🔗  ㅤVisit my [website](https://mansi.dev/).<br />
+- 🔗  Visit my [website](https://mansi.dev/).<br />
 - 👩‍💻    Developer with more then 4 years experience
 - 🔭    I’m currently working on Android
 - 🌱    I’m currently learning Android unit testing
