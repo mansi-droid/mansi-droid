@@ -17,10 +17,10 @@ Alongside programming, I love exercising, driving and travelling!
 ### 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/mansi-droid">
-  <img align="left" alt="Mansi Vaghela's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Mansi Vaghela's LinkedIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="https://twitter.com/mansi_droid">
-  <img align="left" alt="Mansi Vaghela | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Mansi Vaghela | Twitter" width="22px" src="https://www.alpha-cure.com/wp-content/uploads/2023/07/pngtree-twitter-social-media-round-icon-png-image_6315985.png" />
 </a>
 <a href="https://www.xing.com/profile/Mansi_Vaghela/web_profiles">
   <img align="left" alt="Mansi Vaghela's Xing" width="22px" src="https://cdn.worldvectorlogo.com/logos/xing-icon.svg" />
